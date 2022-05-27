@@ -1,7 +1,7 @@
 # Seminario de Solución de Problemas de Traductores de Lenguajes II
 
 # Descripción.
-En este repositorio se encuentran todas las actividades hechas en la materia de Seminario de Solución de Problemas de Traductores de Lenguaje II con el profesor Michel Emanuel López Franco en la sección D02.
+En este repositorio se encuentran todas las actividades hechas en la materia de Seminario de Solución de Problemas de Traductores de Lenguajes II con el profesor Michel Emanuel López Franco en la sección D02.
 
 Este repositorio junto con los archivos que se encuentran aquí fueron creados por el alumno Karen Lizette Flores Muñoz, de la Universidad de Guadalajara.
 
@@ -10,10 +10,10 @@ En cada carpeta que se encuentra en este repositorio está la respectiva tarea d
 Las tareas de la materia son:
 
     Tarea 1: Mini analizador léxico.
-    Tarea 2: Analizador léxico.
-    Tarea 3: Mini analizador sintáctico.
-    Tarea 4: Analizador sintáctico (Implementación usando objetos).
-    Tarea 5: Gramática del compilador.
+    Tarea 2: Mini analizador sintáctico.
+    Tarea 3: Analizador sintáctico (Implementación usando objetos).
+    Tarea 4: Gramática del compilador.
+    Tarea 5: Mostrar árbol sintáctico.
     Tarea 6: Analizador semántico.
 
 Cada tarea representa un pequeño avance hacia el proyecto.
